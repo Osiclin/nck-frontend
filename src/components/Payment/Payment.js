@@ -8,7 +8,7 @@ export default function Payment() {
                     <h2>Payment Information</h2>
                     <p style={{color: 'grey'}}>Choose your method of payment.</p>
                     <div>
-                        <img src='https://www.ubagroup.com/nigeria/wp-content/uploads/sites/3/2021/06/UBA-MasterCard-300x200-3.png' width='100%' height='100%' />
+                        <img src='https://www.ubagroup.com/nigeria/wp-content/uploads/sites/3/2021/06/UBA-MasterCard-300x200-3.png' width='100%' height='100%' alt='card' />
                     </div>  
                 </div>
 
@@ -18,7 +18,7 @@ export default function Payment() {
                             <div style={{display: 'flex', marginBottom: '.5rem', alignItems: 'center', marginTop: '1rem', justifyContent: 'flex-end'}}>
                                 <input type='radio' />
                                 <div style={{marginLeft: '1rem'}}>
-                                    <img src='https://banner2.cleanpng.com/20180615/guz/kisspng-paypal-business-logo-computer-icons-payment-gateway-5b2485d385eee5.1083245415291202115486.jpg' width='100px' height='40px' />
+                                    <img src='https://banner2.cleanpng.com/20180615/guz/kisspng-paypal-business-logo-computer-icons-payment-gateway-5b2485d385eee5.1083245415291202115486.jpg' width='100px' height='40px' alt='paypal' />
                                 </div>
                             </div>
                         </div>
