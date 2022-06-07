@@ -7,7 +7,7 @@ export default function Header() {
                 <li style={{marginRight: '3rem'}}>BOOKINGS</li>
             </ul>
             <div>
-                <img src='/cp.jpg' width='70px' height='70px' alt='profile' style={{objectFit: 'cover', borderRadius: '50%'}} />
+                <img src='/cp.jpg' width='50px' height='50px' alt='profile' style={{objectFit: 'cover', borderRadius: '50%'}} />
             </div>
         </div>
     )
